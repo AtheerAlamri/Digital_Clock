@@ -1,5 +1,5 @@
 # Digital_Clock
-A simple Digital clock project in which a computer time is retrieved and displayed on the screen.
+A simple Digital clock project in which a computer time is retrieved and displayed on the screen.<br>
 📍The actual window that contains the player is expandable.
 
 # Programming Language & Tools
