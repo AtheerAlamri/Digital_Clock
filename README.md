@@ -1,6 +1,6 @@
 # Digital_Clock
 A simple Digital clock project in which a computer time is retrieved and displayed on the screen.<br>
-📍The actual window that contains the player is expandable.
+📍The actual window that contains the digital clock is expandable.
 
 # Programming Language & Tools
 [<code><img height="25" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>](https://www.python.org/)
